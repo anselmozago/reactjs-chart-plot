@@ -1,0 +1,31 @@
+html, body, #root, .App {
+  height: 100%;
+}
+
+h1 {
+  font-size: 26px;
+  text-transform: uppercase;
+  color: #666666;
+}
+
+.navbar {
+  background-color: #dddee1;
+}
+
+.footer {
+  padding: 15px 20px;
+  background-color: #dddee1;
+}
+
+.btn {
+  text-transform: uppercase;
+}
+
+.messageBox {
+  padding: 15px;
+}
+
+.messageText {
+  font-size: 22px;
+  color: #666666;
+}
