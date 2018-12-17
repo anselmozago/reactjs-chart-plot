@@ -10,7 +10,7 @@ const JSON5 = require('json5')
   * TODO: Suggest and implement a protection for this application
   * to deal with huge amount of data.
   * Solution: Group the data in time bands. Consolidate the data of
-  * the same group in larger spaces of time, for example in minutes.
+  * the same group in larger spaces of time, for example in hours.
   * 
   * @param data Events content in JSON format
   * @return Array of data to build a chart
